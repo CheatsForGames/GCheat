@@ -1,0 +1,2 @@
+# GCheat
+Genshin Cheat
